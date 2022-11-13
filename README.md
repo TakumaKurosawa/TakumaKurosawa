@@ -2,7 +2,7 @@
 
 ## Profile
 ``` go
-type Takumaron struct {
+type TakumaKurosawa struct {
   Name: "Takuma Kurosawa",
   Location: "Japan",
   Occupation: "Server-side engineer(Software developer)"
@@ -12,8 +12,8 @@ type Takumaron struct {
 ```
 
 ## Analytics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Takumaron&count_private=true&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TakumaKurosawa&count_private=true&show_icons=true&theme=radical)
 
-[![](https://raw.githubusercontent.com/Takumaron/Takumaron/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/TakumaKurosawa/TakumaKurosawa/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/Takumaron/Takumaron/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/Takumaron/Takumaron/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/TakumaKurosawa/TakumaKurosawa/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/TakumaKurosawa/TakumaKurosawa/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
