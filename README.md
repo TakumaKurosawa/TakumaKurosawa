@@ -12,8 +12,9 @@ type TakumaKurosawa struct {
 ```
 
 ## Analytics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TakumaKurosawa&count_private=true&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TakumaKurosawa&count_private=true&disable_animations=true&bg_color=88,3FB883,000&title_color=fff&text_color=fff)
 
-[![](https://raw.githubusercontent.com/TakumaKurosawa/TakumaKurosawa/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakumaKurosawa&theme=vue)
 
-[![](https://raw.githubusercontent.com/TakumaKurosawa/TakumaKurosawa/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/TakumaKurosawa/TakumaKurosawa/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakumaKurosawa&theme=vue&exclude=html)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakumaKurosawa&theme=vue&exclude=html)
+
