@@ -5,16 +5,15 @@
 TakumaKurosawa := Profile{
   Name:       "Takuma Kurosawa",
   Birthplace: "Japan",
-  Location:   "Vietnam",
+  LivingIn:   "Vietnam",
   Occupation: "Backend engineer(Software developer)",
   FavoriteTechnologies: []string{
     "Go",
-    "Javascript",
     "Typescript",
     "MySQL",
     "AWS",
     "Docker",
-    "Nuxt(Vue)",
+    "Nuxt(Vue).js",
   },
   X:     "@TakumaKurosawa",
   Qiita: "@TakumaKurosawa",
